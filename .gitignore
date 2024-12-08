@@ -1,2 +1,7 @@
 data
-main.ipynb
+Models
+.vscode
+images
+segmentation
+resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
+report.txt
